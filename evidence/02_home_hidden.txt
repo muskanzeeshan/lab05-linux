@@ -1,0 +1,24 @@
+total 84
+drwxr-x--- 12 muskanzeeshan muskanzeeshan 4096 Oct 16 04:26 .
+drwxr-xr-x  3 root          root          4096 Sep 16 16:35 ..
+-rw-------  1 muskanzeeshan muskanzeeshan    0 Oct  9 10:02 .bash_history
+-rw-r--r--  1 muskanzeeshan muskanzeeshan  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 muskanzeeshan muskanzeeshan 3771 Feb 13  2026 .bashrc
+drwx------  2 muskanzeeshan muskanzeeshan 4096 Sep 16 16:55 .cache
+drwxrwxr-x  7 muskanzeeshan muskanzeeshan 4096 Oct 10 10:49 .git
+-rw-rw-r--  1 muskanzeeshan muskanzeeshan  192 Oct 16 04:25 .gitconfig
+-rw-rw-r--  1 muskanzeeshan muskanzeeshan    6 Sep 25 06:08 .gitignore
+-rw-rw-r--  1 muskanzeeshan muskanzeeshan    6 Sep 25 05:51 .gitognore
+-rw-------  1 muskanzeeshan muskanzeeshan   20 Sep 25 06:03 .lesshst
+drwx------  3 muskanzeeshan muskanzeeshan 4096 Sep 25 05:57 .local
+-rw-r--r--  1 muskanzeeshan muskanzeeshan  807 Feb 13  2026 .profile
+drwx------  2 muskanzeeshan muskanzeeshan 4096 Oct  9 10:08 .ssh
+drwxrwxr-x  3 muskanzeeshan muskanzeeshan 4096 Oct 10 09:08 Assignment01
+drwxrwxr-x  2 muskanzeeshan muskanzeeshan 4096 Sep 18 19:08 CC_Lab2_Practice
+drwxrwxr-x  3 muskanzeeshan muskanzeeshan 4096 Sep 18 18:37 CC_Lab2_Practice-
+drwxrwxr-x  3 muskanzeeshan muskanzeeshan 4096 Oct  9 10:17 Gitea
+-rw-rw-r--  1 muskanzeeshan muskanzeeshan   21 Sep 25 05:59 README.md
+drwxrwxr-x  5 muskanzeeshan muskanzeeshan 4096 Oct 16 04:26 lab05-linux
+-rw-rw-r--  1 muskanzeeshan muskanzeeshan   51 Sep 19 13:45 notes.txt
+drwxrwxr-x  2 muskanzeeshan muskanzeeshan 4096 Oct 10 10:18 portfolio
+-rw-rw-r--  1 muskanzeeshan muskanzeeshan    0 Sep 25 05:51 test.log
